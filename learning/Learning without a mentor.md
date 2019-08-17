@@ -2,7 +2,9 @@
 
 ## Author: Itamar Turner-Trauring
 
-### Tags: @philosophy
+### Tags: 
+
+@philosophy
 
 [ref](https://codewithoutrules.com/2017/04/17/learning-without-a-mentor/)
 

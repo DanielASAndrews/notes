@@ -2,7 +2,9 @@
 
 ## Author: Itamar Turner-Trauring
 
-### Tags: @philosophy
+### Tags: 
+
+@philosophy
 
 [ref](https://codewithoutrules.com/2016/09/09/side-projects/)
 

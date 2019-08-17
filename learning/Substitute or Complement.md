@@ -2,7 +2,9 @@
 
 ## Author: Scott Young
 
-### Tags: @philosophy
+### Tags: 
+
+@philosophy
 
 [ref](https://www.scotthyoung.com/blog/2017/11/07/substitute-or-complement/)
 

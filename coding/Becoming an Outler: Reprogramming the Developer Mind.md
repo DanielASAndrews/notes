@@ -2,7 +2,9 @@
 
 ## Author: Cory House
 
-### Tags: @philosophy
+### Tags: 
+
+@philosophy
 
 ### Questions
 
