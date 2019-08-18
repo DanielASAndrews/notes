@@ -30,7 +30,7 @@ Mocking the interactions between all classes forces you to create mocks that ret
 
 So if you mock too much you may wind up with test suites that are slow, fragile, and complicated; and you may also damage the design of your application.
 
-### Goldilocks Mocks (Not to Few, Not too many)
+### Goldilocks Mocks (Not too Few, Not too many)
 
 > Mock across architecturally significant boundaries, but not within those boundaries.
 

@@ -14,7 +14,7 @@
 
 ### Content
 
-> “Every person has two educations,” Edward Gibbon, > once said, “one which he receives from others and > one, more important, which he gives himself.”
+> “Every person has two educations,” Edward Gibbon, once said, “one which he receives from others and one, more important, which he gives himself.”
 
 So instead of ‘find yourself a mentor,’ I think there is a far better dictum to follow. It comes from a relatively unknown line from Marcus Aurelius. But it’s simple and clear:
 
