@@ -1,6 +1,6 @@
 # So You Want To Be A Writer? That’s Mistake #1
 
-## Author: Ryan Holiay
+## Author: Ryan Holiday
 
 ### Tags: 
 

@@ -1,6 +1,6 @@
 # Go Straight To The Seat Of Intelligence
 
-## Author: Ryan Holiay
+## Author: Ryan Holiday
 
 ### Tags: 
 
