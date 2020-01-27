@@ -12,7 +12,7 @@
 
 - Are you spending you prioritizing the real time you have left with people in your life, not by years you have left to live, but by actual possible time with them?
 
-![Image of the amount of books author could possibly read in his life](https://waitbutwhy.com/2015/12/the-tail-end.html)
+![Image of the amount of books author could possibly read in his life](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/books-582x600.png)
 
 ### Content
 
