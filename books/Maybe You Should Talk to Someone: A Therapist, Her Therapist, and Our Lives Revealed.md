@@ -54,6 +54,8 @@ Sometime people don’t want to change even if they say they do, in those cases 
 Between stimulus and response there is space.
 In that space is our power to choose our response. In our response lies our growth and our freedom. -Victor frankl 
 
+![Image of the amount of books author could possibly read in his life](https://www.psychologynoteshq.com/wp-content/uploads/2019/05/erikerikson-01.jpg)
+
 Apologies are tricky:
 who are you apologizing for ? Because it makes you feel better or make the other person feel better ?
 
