@@ -4,7 +4,7 @@
 
 ### Tags: 
 
-@productivity @stoicism @philosophy
+@productivity @stoicism @philosophy @fitness
 
 [ref](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
