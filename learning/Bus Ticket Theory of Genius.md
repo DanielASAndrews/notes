@@ -1,4 +1,4 @@
-  # Go Straight To The Seat Of Intelligence
+# Go Straight To The Seat Of Intelligence
 
 ## Author: Paul Graham
 
