@@ -4,7 +4,7 @@
 
 ### Tags: 
 
-@conflict-resolution
+@conflict-resolution @empathy
 
 [ref](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)
 
@@ -76,3 +76,13 @@ When you’re stuck between two seemingly bad choices, what if you choose neithe
 Keep ‘sometimes’ in mind for a more balanced, realistic perspective. It helps to avoid extremes, black and white thinking. E.g I’m am an asshole sometimes, they’re an asshole sometimes
 
 Meaning provides happiness 
+
+EPM formula for feedback:
+
+Empathetic - establishes a cooperative tone
+Pinpoint - pinpoint the problems
+Moving Forward - agree on a solution
+
+"We judge people by their actions and judge ourselves by our intentions" - Steven Covey
+
+"Seek first to understand and then to be understood" - Steven Covey
